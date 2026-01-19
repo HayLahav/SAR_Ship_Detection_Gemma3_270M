@@ -1,8 +1,5 @@
 # SAR Ship Detection with Gemma 3 270M
 
-<img width="3788" height="1253" alt="image" src="https://github.com/user-attachments/assets/7e51ef0e-7280-4ff3-a20c-63ff680d70c6" />
-
-
 Automated maritime surveillance system using Sentinel-1 SAR satellite imagery and Google's Gemma 3 270M language model for ship detection and classification.
 
 ## Overview
